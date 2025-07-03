@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Firebase Studio Demo',
+      title: 'Flutter Firebase Studio',
       theme: ThemeData(
         // This is the theme of your application.
         //
